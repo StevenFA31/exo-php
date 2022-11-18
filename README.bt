@@ -1,9 +1,9 @@
-&Exercice Programmation 1 (PHP)
+Exercice Programmation 1 (PHP)
 
-&&Le programme demande la couleur du cheval blanc d'Henri 4, puis combien y a-t-il de 7 nains ?
+Le programme demande la couleur du cheval blanc d'Henri 4, puis combien y a-t-il de 7 nains ?
 
-&Exercice Programmation 2 (PHP)
+Exercice Programmation 2 (PHP)
 
-&&Le programme tire au hasard une opération ( + * - ) et deux chiffres
-&&Le programme demande le résultat de l'opération à l'utilisateur » ex : "combien font 4 * 7"
-&&Affiche si la réponse est juste ou fausse
+Le programme tire au hasard une opération ( + * - ) et deux chiffres
+Le programme demande le résultat de l'opération à l'utilisateur » ex : "combien font 4 * 7"
+Affiche si la réponse est juste ou fausse
